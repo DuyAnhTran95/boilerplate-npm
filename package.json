@@ -1,10 +1,11 @@
 {
 	"name": "fcc-npm-tut",
-	"version": "0.0.1.SNAPSHOT",
+	"version": "0.0.1",
 	"author": "cuongysl",
 	"description": "just a test",
+	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
